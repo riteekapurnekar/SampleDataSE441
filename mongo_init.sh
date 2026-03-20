@@ -4,5 +4,5 @@
     --collection textbooks \
     --jsonArray \
     --file textbooks_data.json \
-    -u admin -p riteeka789 \
+    -u admin -p admin \
     --authenticationDatabase admin
