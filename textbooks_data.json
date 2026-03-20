@@ -1,0 +1,101 @@
+[
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d001"
+    },
+    "id": 0,
+    "name": "Introduction to Software Engineering",
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800",
+    "author": "Ian Sommerville",
+    "edition": "10th Edition",
+    "description": "A comprehensive guide to software engineering principles, covering the entire software development lifecycle from requirements gathering to maintenance. This foundational text explores methodologies, best practices, and tools essential for building quality software systems. Sommerville's approach combines theoretical foundations with practical applications used in the industry."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d002"
+    },
+    "id": 1,
+    "name": "Clean Code",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800",
+    "author": "Robert C. Martin",
+    "edition": "1st Edition",
+    "description": "A handbook of agile software craftsmanship that teaches developers how to write code that is readable, maintainable, and elegant. Learn the principles of writing clean code and transforming bad code into good code through practical examples and refactoring techniques. Uncle Bob presents timeless principles that help programmers write code that others can understand and modify."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d003"
+    },
+    "id": 2,
+    "name": "Design Patterns",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800",
+    "author": "Gang of Four",
+    "edition": "1st Edition",
+    "description": "Elements of reusable object-oriented software. This classic text describes 23 design patterns that represent solutions to common design problems. Learn how to create flexible, elegant, and reusable software through proven design solutions. Written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, this book has influenced generations of software developers."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d004"
+    },
+    "id": 3,
+    "name": "The Pragmatic Programmer",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800",
+    "author": "Andrew Hunt & David Thomas",
+    "edition": "2nd Edition",
+    "description": "Your journey to mastery. This influential book covers topics ranging from personal responsibility and career development to architectural techniques for keeping code flexible and adaptable. Essential reading for all software professionals who want to improve their craft and become better programmers. The 20th anniversary edition includes new material on modern development practices."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d005"
+    },
+    "id": 4,
+    "name": "Refactoring",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800",
+    "author": "Martin Fowler",
+    "edition": "2nd Edition",
+    "description": "Improving the design of existing code. Learn systematic techniques for refactoring code to improve its structure without changing its behavior. This book provides a catalog of refactorings with detailed explanations and examples. Fowler shows how to recognize code smells and apply the appropriate refactoring to create cleaner, more maintainable code."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d006"
+    },
+    "id": 5,
+    "name": "Agile Software Development",
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800",
+    "author": "Robert C. Martin",
+    "edition": "1st Edition",
+    "description": "Principles, patterns, and practices. Explore agile methodologies including Scrum, XP, and their practical applications. Learn about SOLID principles, design patterns, and agile development practices for building better software. Uncle Bob presents a complete picture of agile development from principles to practices, helping teams deliver high-quality software."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d007"
+    },
+    "id": 6,
+    "name": "Test Driven Development",
+    "image": "https://images.unsplash.com/photo-1589998059171-988d887df646?w=800",
+    "author": "Kent Beck",
+    "edition": "1st Edition",
+    "description": "By example. Learn the TDD process through practical examples in multiple programming languages. Discover how writing tests first leads to better designed, more reliable code and helps prevent bugs before they occur. Kent Beck, the creator of Extreme Programming, demonstrates how TDD encourages simple designs and inspires confidence in your code."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d008"
+    },
+    "id": 7,
+    "name": "Continuous Delivery",
+    "image": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=800",
+    "author": "Jez Humble & David Farley",
+    "edition": "1st Edition",
+    "description": "Reliable software releases through build, test, and deployment automation. Learn how to implement deployment pipelines, automate testing, and achieve rapid, reliable releases. Essential for DevOps and modern software delivery. This book presents architectural and technical patterns for implementing continuous delivery, reducing the time and risk of releasing software."
+  },
+  {
+    "_id": {
+      "$oid": "64de122465ba6ca132e2d009"
+    },
+    "id": 8,
+    "name": "Code Complete",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800",
+    "author": "Steve McConnell",
+    "edition": "2nd Edition",
+    "description": "A practical handbook of software construction. This comprehensive guide covers all aspects of software construction from design to testing. McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. Widely considered one of the best practical guides to programming, Code Complete has been helping developers write better software for decades."
+  }
+]
